@@ -4,6 +4,16 @@
 
 ## 如何使用
 
+在命令行输入以下代码部署项目
+```
+# 项目部署
+git clone https://gitee.com/xuefeiyuy/langgraph_my.git
+# 创建虚拟环境
+conda create -n 环境名字 python=版本
+conda activate 环境名字
+# 下载依赖
+pip install -r requirements.txt
+```
 在运行代码之前，你需要先下载Neo4j，并上传数据，即updated_data.xlsx
 
 你可以通过以下语句来上传：
