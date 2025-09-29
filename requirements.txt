@@ -1,0 +1,4 @@
+ahocorasick==0.9
+Flask==2.2.5
+Flask_Cors==5.0.0
+py2neo==2021.2.4

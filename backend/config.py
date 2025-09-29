@@ -1,6 +1,6 @@
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "11040011"  # 替换为您的 Neo4j 数据库密码
+NEO4J_PASSWORD = "yourkey"  # 替换为您的 Neo4j 数据库密码
 # 实体类型和属性映射
 ENTITY_TYPES = {
     "领域分类": "分类名称",
